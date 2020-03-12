@@ -10,3 +10,5 @@ https://www.anaconda.com/
 ## PyCharm (Python IDE)
 https://www.jetbrains.com/pycharm/
 
+## The Open Speech Library
+https://www.voiptroubleshooter.com/open_speech/index.html
