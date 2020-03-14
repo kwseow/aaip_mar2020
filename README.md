@@ -1,6 +1,9 @@
 # Applied Artificial Intelligence with Python (Mar 2020)
 Applied Artificial Intelligence with Python (Mar 2020)
 
+## 14 Mar 2020 
+Added requirement text in the form of [environment_name.txt] in their respective folder.
+
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
 
