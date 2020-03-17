@@ -6,7 +6,7 @@ Added requirement text in the form of [environment_name.txt] in their respective
 
 ### [Yelp dataset for Movie Review](http://bit.ly/2QllwAl)
 
-### Training datasets for CV exercies:
+### [Training datasets for CV exercies](https://www.dropbox.com/sh/yc97tq8esa9r3ds/AAD-uyaKwio4EY94jDT-p6NOa?dl=1)
 
 ## Datasets repository
 https://kwseow.github.io/
